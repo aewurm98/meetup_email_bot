@@ -1,122 +1,122 @@
-Student Name                , Student Email        , Number of Selections, Section, Industry, Geography, Degree Program
-Shaden Alsheik              , shaden@stanford.edu
-Kenzie Amack                , kamack@stanford.edu
-Dawn Androphy               , dawn24@stanford.edu
-Malika Aubakirova           , amalika@stanford.edu
-Diego Bacci                 , dabacci@stanford.edu
-Sebastian Baquerizo         , sebq@stanford.edu
-Joby Bernstein              , joby@stanford.edu
-Louise Brito                , lbrito@stanford.edu
-Ian Chan                    , ichan14@stanford.edu
-Victor Charoonsophonsak     , vcharoon@stanford.edu
-Lacey Chaum                 , lchaum@stanford.edu
-Nina Chen                   , nnchen@stanford.edu
-Cameron Gibson Chesnutt     , camc@stanford.edu
-Robert Chun                 , N/A
-Jeff Cott                   , jcott@stanford.edu
-Utku Dalan                  , udalan@stanford.edu
-Sarah Davis                 , sejdavis@stanford.edu
-Katie Deal                  , kdeal@stanford.edu
-Rachel Densley              , rdensley@stanford.edu
-Katie Dickinson             , katieliz@stanford.edu
-Lucy Isabelle Dikeou        , N/A
-Zack Doherty                , zdoherty@stanford.edu
-Cassandra Duchan Saucedo    , cduchan@stanford.edu
-Divine Edem                 , dedem@stanford.edu
-Sophia Fang                 , sqfang@stanford.edu
-Carolina Ferrari Sieiro     , cferrari@stanford.edu
-Madison Freeman             , madisonc@stanford.edu
-Ehsan Ghasemi               , ghasemi@stanford.edu
-Joe Glick                   , N/A
-Maggie Gratz                , mngratz@stanford.edu
-Chandler Groves             , N/A
-Claudio Guardado            , cguardad@stanford.edu
-Nikhil Gupta                , ngupta23@stanford.edu
-Charif Hamidi               , chamidi@stanford.edu
-Taylor Christine Harris     , thar95@stanford.edu
-Mandy Holt                  , amholt@stanford.edu
-Irving Hsu                  , N/A
-Kevin Liu Huang             , klhuang@stanford.edu
-Pallavi Hukerikar           , pallavih@stanford.edu
-Malik Ismail                , maliki@stanford.edu
-Julia Jacobson              , juliajac@stanford.edu
-Crystal Jain                , czheng11@stanford.edu
-Pranav Jain                 , N/A
-Shantam Jain                , shantam@stanford.edu
-Bennett Johnson             , bjohns01@stanford.edu
-Nitika Johri                , nitikaj@stanford.edu
-Alex Jow                    , ajow@stanford.edu
-Jason Kim                   , N/A
-Haley King                  , kingh2@stanford.edu
-Ms. Deepika Saraswathy Kurup, N/A
-Qixuan Li                   , qixuanli@stanford.edu
-Lyanne liang                , lyliang@stanford.edu
-Lia Roberds                 , lroberds@stanford.edu
-Grace Lincenberg            , glince@stanford.edu
-Joanna Liu                  , ljoanna@stanford.edu
-Helen Lu                    , helenjlu@stanford.edu
-Ragav Manimaran             , N/A
-Alvaro Marin Melero         , alvarom@stanford.edu
-Moraa Marwanga              , marwanga@stanford.edu
-Grant McNaughton            , grantmcn@stanford.edu
-Krish Mehta                 , krishm@stanford.edu
-Korey Mui                   , koreymui@stanford.edu
-Terry Mwesigwa              , tmwes@stanford.edu
-Martha Nabukeera            , nmartha@stanford.edu
-Henrique Neffa              , hneffa@stanford.edu
-Thomas Newcomb              , tnewcomb@stanford.edu
-Kha-ai Nguyen               , knw@stanford.edu
-Jack O'Rourke               , jmor@stanford.edu
-Ore Obiwumi                 , oobiwumi@stanford.edu
-Aramide Olaniyan            , aramideo@stanford.edu
-Paulina Paras               , pparas37@stanford.edu
-Andrew Paulmeno             , paulmeno@stanford.edu
-Jonathan Pedersen           , jonpeder@stanford.edu
-David PERAN                 , davperan@stanford.edu
-Joshua Michael Pickering    , N/A
-Henry Pollock               , pollockh@stanford.edu
-Haley Prout                 , hprout@stanford.edu
-Liam Rahman                 , N/A
-Anthony Rangel              , amrangel@stanford.edu
-Jeffrey Reppucci            , jreppu91@stanford.edu
-Bruno Rigonatti Mendes      , brunorm@stanford.edu
-James Ruben                 , jruben@stanford.edu
-Alba Rubio Rodriguez        , albarr@stanford.edu
-Ben Rush                    , benrush@stanford.edu
-Juan Pablo Sandoval Celis   , jpsand95@stanford.edu
-Leonardo Sanelli            , N/A
-Michael Sauvage             , msauvage@stanford.edu
-Jamasb Joshua Sayadi        , N/A
-Aline Schechter             , alines@stanford.edu
-Elizabeth Maurine Scholz    , emscholz@stanford.edu
-Declan Schuller             , declans@stanford.edu
-Ben Liad Schwartz           , ben4@stanford.edu
-Vikram Shanker              , vshanker@stanford.edu
-Jigyasa Sharma              , N/A
-Emily Sheng                 , emsheng@stanford.edu
-Jesse Shulman               , jshul@stanford.edu
-Pedro Siciliano Peixoto     , pedrosp@stanford.edu
-Bharti Singhla              , bsinghla@stanford.edu
-Amanda Sload                , aksload@stanford.edu
-Shyheim Snead               , ssnead1@stanford.edu
-Renata Stewart              , renatas@stanford.edu
-John Henry Styles III       , jhstyles@stanford.edu
-J Swee                      , jswee@stanford.edu
-Ryotaro Takanashi           , ryotarot@stanford.edu
-Nishant Kumar Tiwary        , ntiwary@stanford.edu
-Phuthi Tsatsi               , N/A
-James Samuel Underwood      , jamesu@stanford.edu
-Sandy Uwimana               , suwimana@stanford.edu
-James Van Kirk              , jvk@stanford.edu
-Augusto Viotti Bozzini      , augvb@stanford.edu
-Alex Wang                   , alwang24@stanford.edu
-Brad Ward                   , N/A
-Maia Watson                 , mwatson4@stanford.edu
-Victoria Hope White         , N/A
-George Wilson               , gkwilson@stanford.edu
-Alex Wu                     , alexwu24@stanford.edu
-HanYue Yin                  , hanyuey@stanford.edu
-Min Jae Yoo                 , minjyoo@stanford.edu
-Ryan Zepeda                 , rzepeda1@stanford.edu
-Yutong Zhu                  , ytzhu@stanford.edu
-Yuchen Zou                  , yuchenz@stanford.edu
+Student Name,Student Email,Number of Selections,Section,Industry,Geography,Degree Program
+Shaden Alsheik,shaden@stanford.edu,0,,,,
+Kenzie Amack,kamack@stanford.edu,0,,,,
+Dawn Androphy,dawn24@stanford.edu,0,,,,
+Malika Aubakirova,amalika@stanford.edu,0,,,,
+Diego Bacci,dabacci@stanford.edu,0,,,,
+Sebastian Baquerizo,sebq@stanford.edu,0,,,,
+Joby Bernstein,joby@stanford.edu,0,,,,
+Louise Brito,lbrito@stanford.edu,0,,,,
+Ian Chan,ichan14@stanford.edu,0,,,,
+Victor Charoonsophonsak,vcharoon@stanford.edu,0,,,,
+Lacey Chaum,lchaum@stanford.edu,0,,,,
+Nina Chen,nnchen@stanford.edu,0,,,,
+Cameron Gibson Chesnutt,camc@stanford.edu,0,,,,
+Robert Chun,,0,,,,
+Jeff Cott,jcott@stanford.edu,0,,,,
+Utku Dalan,udalan@stanford.edu,0,,,,
+Sarah Davis,sejdavis@stanford.edu,0,,,,
+Katie Deal,kdeal@stanford.edu,0,,,,
+Rachel Densley,rdensley@stanford.edu,0,,,,
+Katie Dickinson,katieliz@stanford.edu,0,,,,
+Lucy Isabelle Dikeou,,0,,,,
+Zack Doherty,zdoherty@stanford.edu,0,,,,
+Cassandra Duchan Saucedo,cduchan@stanford.edu,0,,,,
+Divine Edem,dedem@stanford.edu,0,,,,
+Sophia Fang,sqfang@stanford.edu,0,,,,
+Carolina Ferrari Sieiro,cferrari@stanford.edu,0,,,,
+Madison Freeman,madisonc@stanford.edu,0,,,,
+Ehsan Ghasemi,ghasemi@stanford.edu,0,,,,
+Joe Glick,,0,,,,
+Maggie Gratz,mngratz@stanford.edu,0,,,,
+Chandler Groves,,0,,,,
+Claudio Guardado,cguardad@stanford.edu,0,,,,
+Nikhil Gupta,ngupta23@stanford.edu,0,,,,
+Charif Hamidi,chamidi@stanford.edu,0,,,,
+Taylor Christine Harris,thar95@stanford.edu,0,,,,
+Mandy Holt,amholt@stanford.edu,0,,,,
+Irving Hsu,,0,,,,
+Kevin Liu Huang,klhuang@stanford.edu,0,,,,
+Pallavi Hukerikar,pallavih@stanford.edu,0,,,,
+Malik Ismail,maliki@stanford.edu,0,,,,
+Julia Jacobson,juliajac@stanford.edu,0,,,,
+Crystal Jain,czheng11@stanford.edu,0,,,,
+Pranav Jain,,0,,,,
+Shantam Jain,shantam@stanford.edu,0,,,,
+Bennett Johnson,bjohns01@stanford.edu,0,,,,
+Nitika Johri,nitikaj@stanford.edu,0,,,,
+Alex Jow,ajow@stanford.edu,0,,,,
+Jason Kim,,0,,,,
+Haley King,kingh2@stanford.edu,0,,,,
+Ms. Deepika Saraswathy Kurup,,0,,,,
+Qixuan Li,qixuanli@stanford.edu,0,,,,
+Lyanne liang,lyliang@stanford.edu,0,,,,
+Lia Roberds,lroberds@stanford.edu,0,,,,
+Grace Lincenberg,glince@stanford.edu,0,,,,
+Joanna Liu,ljoanna@stanford.edu,0,,,,
+Helen Lu,helenjlu@stanford.edu,0,,,,
+Ragav Manimaran,,0,,,,
+Alvaro Marin Melero,alvarom@stanford.edu,0,,,,
+Moraa Marwanga,marwanga@stanford.edu,0,,,,
+Grant McNaughton,grantmcn@stanford.edu,0,,,,
+Krish Mehta,krishm@stanford.edu,0,,,,
+Korey Mui,koreymui@stanford.edu,0,,,,
+Terry Mwesigwa,tmwes@stanford.edu,0,,,,
+Martha Nabukeera,nmartha@stanford.edu,0,,,,
+Henrique Neffa,hneffa@stanford.edu,0,,,,
+Thomas Newcomb,tnewcomb@stanford.edu,0,,,,
+Kha-ai Nguyen,knw@stanford.edu,0,,,,
+Jack O'Rourke,jmor@stanford.edu,0,,,,
+Ore Obiwumi,oobiwumi@stanford.edu,0,,,,
+Aramide Olaniyan,aramideo@stanford.edu,0,,,,
+Paulina Paras,pparas37@stanford.edu,0,,,,
+Andrew Paulmeno,paulmeno@stanford.edu,0,,,,
+Jonathan Pedersen,jonpeder@stanford.edu,0,,,,
+David PERAN,davperan@stanford.edu,0,,,,
+Joshua Michael Pickering,,0,,,,
+Henry Pollock,pollockh@stanford.edu,0,,,,
+Haley Prout,hprout@stanford.edu,0,,,,
+Liam Rahman,,0,,,,
+Anthony Rangel,amrangel@stanford.edu,0,,,,
+Jeffrey Reppucci,jreppu91@stanford.edu,0,,,,
+Bruno Rigonatti Mendes,brunorm@stanford.edu,0,,,,
+James Ruben,jruben@stanford.edu,0,,,,
+Alba Rubio Rodriguez,albarr@stanford.edu,0,,,,
+Ben Rush,benrush@stanford.edu,0,,,,
+Juan Pablo Sandoval Celis,jpsand95@stanford.edu,0,,,,
+Leonardo Sanelli,,0,,,,
+Michael Sauvage,msauvage@stanford.edu,0,,,,
+Jamasb Joshua Sayadi,,0,,,,
+Aline Schechter,alines@stanford.edu,0,,,,
+Elizabeth Maurine Scholz,emscholz@stanford.edu,0,,,,
+Declan Schuller,declans@stanford.edu,0,,,,
+Ben Liad Schwartz,ben4@stanford.edu,0,,,,
+Vikram Shanker,vshanker@stanford.edu,0,,,,
+Jigyasa Sharma,,0,,,,
+Emily Sheng,emsheng@stanford.edu,0,,,,
+Jesse Shulman,jshul@stanford.edu,0,,,,
+Pedro Siciliano Peixoto,pedrosp@stanford.edu,0,,,,
+Bharti Singhla,bsinghla@stanford.edu,0,,,,
+Amanda Sload,aksload@stanford.edu,0,,,,
+Shyheim Snead,ssnead1@stanford.edu,0,,,,
+Renata Stewart,renatas@stanford.edu,0,,,,
+John Henry Styles III,jhstyles@stanford.edu,0,,,,
+J Swee,jswee@stanford.edu,0,,,,
+Ryotaro Takanashi,ryotarot@stanford.edu,0,,,,
+Nishant Kumar Tiwary,ntiwary@stanford.edu,0,,,,
+Phuthi Tsatsi,,0,,,,
+James Samuel Underwood,jamesu@stanford.edu,0,,,,
+Sandy Uwimana,suwimana@stanford.edu,0,,,,
+James Van Kirk,jvk@stanford.edu,0,,,,
+Augusto Viotti Bozzini,augvb@stanford.edu,0,,,,
+Alex Wang,alwang24@stanford.edu,0,,,,
+Brad Ward,,0,,,,
+Maia Watson,mwatson4@stanford.edu,0,,,,
+Victoria Hope White,,0,,,,
+George Wilson,gkwilson@stanford.edu,0,,,,
+Alex Wu,alexwu24@stanford.edu,0,,,,
+HanYue Yin,hanyuey@stanford.edu,0,,,,
+Min Jae Yoo,minjyoo@stanford.edu,0,,,,
+Ryan Zepeda,rzepeda1@stanford.edu,0,,,,
+Yutong Zhu,ytzhu@stanford.edu,0,,,,
+Yuchen Zou,yuchenz@stanford.edu,0,,,,
