@@ -25,7 +25,7 @@ def generate_group(students, group_size, use_sections=False):
     if max_selections == min_selections:
         relevant_students = students[students['Student Email'].notna()]
     else:
-        relevant_students = students[((students['Number of Selections'] == 0) | (students['Number of Selections'] < max_selections)) & (students['Student Email'].notna())]
+        relevant_students = students[students['Number of Selections'] < max_selections & students['Student Email'].notna()]
 
     all_students = students[students['Student Email'].notna()]['Student Email'].tolist()
     
@@ -49,6 +49,10 @@ def generate_group(students, group_size, use_sections=False):
             remaining_group = relevant_students[relevant_students['Student Email'].notna()]['Student Email'].tolist()
             needed = group_size - len(group)
             group.extend(remaining_group[:needed])
+
+        # Ensure the group size is not exceeded
+        if len(group) > group_size:
+            raise ValueError("Group size exceeded")
         
         return group
     else:
@@ -64,6 +68,10 @@ def generate_group(students, group_size, use_sections=False):
             while len(group) < group_size and remaining_students:
                 group.append(remaining_students.pop())
         
+        # Ensure the group size is not exceeded
+        if len(group) > group_size:
+            raise ValueError("Group size exceeded")
+
         return group
 
 # Update the selected students in the CSV file by incrementing their selection count
@@ -73,14 +81,6 @@ def update_selected_students(file_path, selected_students):
     df.loc[df['Student Email'].isin(selected_students), 'Number of Selections'] += 1
     df.to_csv(file_path, index=False)
     return df
-    
-    # Ensure the group size is not exceeded
-    def validate_group_size(group, group_size):
-        for sub_group in group:
-            if isinstance(sub_group, list) and len(sub_group) > group_size:
-                raise ValueError("Group size exceeded")
-
-    validate_group_size(group, group_size)
 
 # Step 3: Draft and send emails to the group of recipients
 def send_emails(group, subject, body_template, smtp_server, smtp_port, sender_email, sender_password):
